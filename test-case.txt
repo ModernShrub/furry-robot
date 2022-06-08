@@ -1,0 +1,23 @@
+test-1:
+	npcs = 10
+	collision = Yes
+	obstacle = fence
+	time: 17.723833322525024 seconds
+
+test-2:
+	npcs = 20
+	collision = Yes
+	obstacle = house
+	time: 21.91319966316223 seconds
+
+test-3:
+	npcs = 30
+	collision = Yes
+	obstacle = wall
+	time: 18.017048597335815 seconds
+
+test-4:
+	npcs = 100
+	collision = Yes
+	obstacle = Wall
+	time: 17.91814637184143 seconds
